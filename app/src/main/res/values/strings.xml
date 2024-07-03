@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SummerPracticsFragment</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="orders">Orders</string>
+    <string name="cart">Cart</string>
+    <string name="account">Account\n</string>
+    <string name="text_home_input">Введите имя пользователя</string>
+    <string name="text_button">Ввести имя пользователя</string>
+    <string name="name_model">M5 F90</string>
+    <string name="name_brand">BMW</string>
+    <string name="result">Result</string>
+    <string name="editText">Введите текст</string>
+    <string name="text_button_click">отправить текст</string>
+</resources>
